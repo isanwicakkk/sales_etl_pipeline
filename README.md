@@ -1,14 +1,14 @@
-# etl_pipeline
+# E-Commerce Sales Dashboard Analysis Self Project
 
-# Pipeline sederhana untuk membuat analisa raw data sales e-commerce dari kaggle
+# Pipeline sederhana untuk membuat analisa raw data sales e-commerce shopee dari kaggle
 
-# 📊 Executive KPI & Sales Analytics Dashboard
+# KPI & Sales Analytics Dashboard
 
 Aplikasi dashboard interaktif berbasis **Streamlit** yang dirancang untuk membantu _stakeholder_ menganalisis performa bisnis, pencapaian target KPI, dan tren penjualan secara visual, responsif, dan real-time.
 
 ---
 
-## 🎯 Fitur Utama
+## Fitur Utama
 
 - **Executive Scorecard:** Menampilkan 4 KPI utama (_Total Revenue, Order Volume, Conversion Rate, Average Order Value_) lengkap dengan indikator pertumbuhan ($\uparrow/\downarrow$).
 - **Interactive Dynamic Filters:** Filter global via _Sidebar_ berdasarkan rentang waktu (_Date Range_), wilayah (_Region_), dan kategori produk.
@@ -19,7 +19,7 @@ Aplikasi dashboard interaktif berbasis **Streamlit** yang dirancang untuk memban
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python:** 3.10+
 - **Framework UI:** [Streamlit](https://streamlit.io/)
